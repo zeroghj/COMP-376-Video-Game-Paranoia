@@ -1,0 +1,1369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Menu\button.png</Source>
+      <Name>Menu\button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\button.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\exit.png</Source>
+      <Name>Menu\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\exit.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\menu.png</Source>
+      <Name>Menu\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\menu.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Idle.png</Source>
+      <Name>Sprites\MonsterA\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Run.png</Source>
+      <Name>Sprites\MonsterA\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Idle.png</Source>
+      <Name>Sprites\MonsterB\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Run.png</Source>
+      <Name>Sprites\MonsterB\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Idle.png</Source>
+      <Name>Sprites\MonsterC\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Run.png</Source>
+      <Name>Sprites\MonsterC\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterD\Idle.png</Source>
+      <Name>Sprites\MonsterD\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterD\Run.png</Source>
+      <Name>Sprites\MonsterD\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Die.png</Source>
+      <Name>Sprites\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Die.xnb</Output>
+      <Time>2013-11-27T10:19:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Idle.png</Source>
+      <Name>Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Idle.xnb</Output>
+      <Time>2013-11-26T21:35:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Jump.png</Source>
+      <Name>Sprites\Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Jump.xnb</Output>
+      <Time>2013-11-26T21:35:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Run.png</Source>
+      <Name>Sprites\Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Run.xnb</Output>
+      <Time>2013-11-26T19:38:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA0.png</Source>
+      <Name>Tiles\BlockA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockA0.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA1.png</Source>
+      <Name>Tiles\BlockA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockA1.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA2.png</Source>
+      <Name>Tiles\BlockA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockA2.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA3.png</Source>
+      <Name>Tiles\BlockA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockA3.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA4.png</Source>
+      <Name>Tiles\BlockA4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockA4.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA5.png</Source>
+      <Name>Tiles\BlockA5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockA5.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA6.png</Source>
+      <Name>Tiles\BlockA6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockA6.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB0.png</Source>
+      <Name>Tiles\BlockB0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockB0.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB1.png</Source>
+      <Name>Tiles\BlockB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\BlockB1.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Brick1.png</Source>
+      <Name>Tiles\Brick1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Brick1.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Brick2.png</Source>
+      <Name>Tiles\Brick2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Brick2.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\changeable1.png</Source>
+      <Name>Tiles\changeable1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\changeable1.xnb</Output>
+      <Time>2013-11-27T13:06:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\changeable2.png</Source>
+      <Name>Tiles\changeable2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\changeable2.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension0.png</Source>
+      <Name>Tiles\Dimension0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension0.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension1.png</Source>
+      <Name>Tiles\Dimension1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension1.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension1_2.png</Source>
+      <Name>Tiles\Dimension1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension1_2.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension1_3.png</Source>
+      <Name>Tiles\Dimension1_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension1_3.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension1_4.png</Source>
+      <Name>Tiles\Dimension1_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension1_4.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension2_0.png</Source>
+      <Name>Tiles\Dimension2_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension2_0.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension2_1.png</Source>
+      <Name>Tiles\Dimension2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension2_1.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension2_2.png</Source>
+      <Name>Tiles\Dimension2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension2_2.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension2_3.png</Source>
+      <Name>Tiles\Dimension2_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension2_3.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension2_4.png</Source>
+      <Name>Tiles\Dimension2_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension2_4.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension3_1.png</Source>
+      <Name>Tiles\Dimension3_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension3_1.xnb</Output>
+      <Time>2013-11-27T12:49:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension3_2.png</Source>
+      <Name>Tiles\Dimension3_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension3_2.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension3_3.png</Source>
+      <Name>Tiles\Dimension3_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension3_3.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension3_4.png</Source>
+      <Name>Tiles\Dimension3_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension3_4.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension3_5.png</Source>
+      <Name>Tiles\Dimension3_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension3_5.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension4_1.png</Source>
+      <Name>Tiles\Dimension4_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension4_1.xnb</Output>
+      <Time>2013-11-27T12:50:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension4_2.png</Source>
+      <Name>Tiles\Dimension4_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension4_2.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension4_3.png</Source>
+      <Name>Tiles\Dimension4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension4_3.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension4_4.png</Source>
+      <Name>Tiles\Dimension4_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension4_4.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dimension4_5.png</Source>
+      <Name>Tiles\Dimension4_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Dimension4_5.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\FloorTile0.png</Source>
+      <Name>Tiles\FloorTile0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\FloorTile0.xnb</Output>
+      <Time>2013-11-27T14:21:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\FloorTile1.png</Source>
+      <Name>Tiles\FloorTile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\FloorTile1.xnb</Output>
+      <Time>2013-11-27T14:21:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\FloorTile2.png</Source>
+      <Name>Tiles\FloorTile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\FloorTile2.xnb</Output>
+      <Time>2013-11-27T14:21:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\FloorTile3.png</Source>
+      <Name>Tiles\FloorTile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\FloorTile3.xnb</Output>
+      <Time>2013-11-27T14:21:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\FloorTile4.png</Source>
+      <Name>Tiles\FloorTile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\FloorTile4.xnb</Output>
+      <Time>2013-11-27T14:21:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\FloorTile5.png</Source>
+      <Name>Tiles\FloorTile5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\FloorTile5.xnb</Output>
+      <Time>2013-11-27T14:21:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\FloorTile6.png</Source>
+      <Name>Tiles\FloorTile6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\FloorTile6.xnb</Output>
+      <Time>2013-11-27T14:21:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Platform.png</Source>
+      <Name>Tiles\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Platform.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Platform2.png</Source>
+      <Name>Tiles\Platform2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Platform2.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\spikes0.png</Source>
+      <Name>Tiles\spikes0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\spikes0.xnb</Output>
+      <Time>2013-11-27T13:10:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\spikes1.png</Source>
+      <Name>Tiles\spikes1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\spikes1.xnb</Output>
+      <Time>2013-11-27T13:11:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\spikes2.png</Source>
+      <Name>Tiles\spikes2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\spikes2.xnb</Output>
+      <Time>2013-11-27T13:12:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\switch.png</Source>
+      <Name>Tiles\switch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\switch.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\switchDOWN.png</Source>
+      <Name>Tiles\switchDOWN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\switchDOWN.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\switchUP.png</Source>
+      <Name>Tiles\switchUP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\switchUP.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_0.png</Source>
+      <Name>Backgrounds\Layer0_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_1.png</Source>
+      <Name>Backgrounds\Layer0_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_2.png</Source>
+      <Name>Backgrounds\Layer0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_0.png</Source>
+      <Name>Backgrounds\Layer1_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_1.png</Source>
+      <Name>Backgrounds\Layer1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_2.png</Source>
+      <Name>Backgrounds\Layer1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_0.png</Source>
+      <Name>Backgrounds\Layer2_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_1.png</Source>
+      <Name>Backgrounds\Layer2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_2.png</Source>
+      <Name>Backgrounds\Layer2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Fireball.png</Source>
+      <Name>Sprites\Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Fireball.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\RisingSpears.png</Source>
+      <Name>Sprites\RisingSpears</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\RisingSpears.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\spikeball1.png</Source>
+      <Name>Sprites\spikeball1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\spikeball1.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\spikeball2.png</Source>
+      <Name>Sprites\spikeball2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\spikeball2.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\switch0.png</Source>
+      <Name>Sprites\switch0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\switch0.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\switch1.png</Source>
+      <Name>Sprites\switch1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\switch1.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Background.png</Source>
+      <Name>Menu\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\Background.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\textbox.png</Source>
+      <Name>Overlays\textbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Overlays\textbox.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\resumeBtn.png</Source>
+      <Name>Menu\resumeBtn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\resumeBtn.xnb</Output>
+      <Time>2013-11-05T14:44:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Portrait\Portrait0.png</Source>
+      <Name>Portrait\Portrait0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Portrait\Portrait0.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Portrait\Portrait1.png</Source>
+      <Name>Portrait\Portrait1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Portrait\Portrait1.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Portrait\Portrait2.png</Source>
+      <Name>Portrait\Portrait2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Portrait\Portrait2.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Portrait\Portrait3.png</Source>
+      <Name>Portrait\Portrait3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Portrait\Portrait3.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Portrait\Portrait4.png</Source>
+      <Name>Portrait\Portrait4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Portrait\Portrait4.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Portrait\Portrait5.png</Source>
+      <Name>Portrait\Portrait5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Portrait\Portrait5.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Portrait\Portrait6.png</Source>
+      <Name>Portrait\Portrait6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Portrait\Portrait6.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Portrait\Portrait7.png</Source>
+      <Name>Portrait\Portrait7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Portrait\Portrait7.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Portrait\Portrait8.png</Source>
+      <Name>Portrait\Portrait8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Portrait\Portrait8.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\choice1.png</Source>
+      <Name>Menu\choice1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\choice1.xnb</Output>
+      <Time>2013-11-25T16:12:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\choice2.png</Source>
+      <Name>Menu\choice2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\choice2.xnb</Output>
+      <Time>2013-11-25T16:10:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\choice3.png</Source>
+      <Name>Menu\choice3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\choice3.xnb</Output>
+      <Time>2013-11-25T16:10:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\choice4.png</Source>
+      <Name>Menu\choice4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\choice4.xnb</Output>
+      <Time>2013-11-25T16:11:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\choice5.png</Source>
+      <Name>Menu\choice5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\choice5.xnb</Output>
+      <Time>2013-11-25T16:11:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\choice6.png</Source>
+      <Name>Menu\choice6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\choice6.xnb</Output>
+      <Time>2013-11-25T16:11:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Menu5.png</Source>
+      <Name>Menu\Menu5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\Menu5.xnb</Output>
+      <Time>2013-11-25T15:57:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Menu6.png</Source>
+      <Name>Menu\Menu6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\Menu6.xnb</Output>
+      <Time>2013-11-25T15:58:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Menu7.png</Source>
+      <Name>Menu\Menu7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\Menu7.xnb</Output>
+      <Time>2013-11-25T16:00:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Menu8.png</Source>
+      <Name>Menu\Menu8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\Menu8.xnb</Output>
+      <Time>2013-11-25T16:00:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\minus.png</Source>
+      <Name>Menu\minus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\minus.xnb</Output>
+      <Time>2013-11-25T16:46:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Off.png</Source>
+      <Name>Menu\Off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\Off.xnb</Output>
+      <Time>2013-11-25T16:02:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\plus.png</Source>
+      <Name>Menu\plus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\plus.xnb</Output>
+      <Time>2013-11-25T16:47:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MonotypeCorsivaItalic.png</Source>
+      <Name>Menu\MonotypeCorsivaItalic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\MonotypeCorsivaItalic.xnb</Output>
+      <Time>2013-11-25T16:13:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\On.png</Source>
+      <Name>Menu\On</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Menu\On.xnb</Output>
+      <Time>2013-11-23T06:08:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\placeholdermemoryshard.png</Source>
+      <Name>Sprites\placeholdermemoryshard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\placeholdermemoryshard.xnb</Output>
+      <Time>2013-11-23T02:13:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\placeholdermemoryshardgreyed.png</Source>
+      <Name>Sprites\placeholdermemoryshardgreyed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\placeholdermemoryshardgreyed.xnb</Output>
+      <Time>2013-11-23T02:14:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Greyed Memory Shard.png</Source>
+      <Name>Sprites\Greyed Memory Shard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Greyed Memory Shard.xnb</Output>
+      <Time>2013-11-27T03:34:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Memory Shard.png</Source>
+      <Name>Sprites\Memory Shard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Memory Shard.xnb</Output>
+      <Time>2013-11-27T03:34:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Gem.png</Source>
+      <Name>Sprites\Gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Gem.xnb</Output>
+      <Time>2013-11-27T03:48:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Exit.png</Source>
+      <Name>Tiles\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Tiles\Exit.xnb</Output>
+      <Time>2013-11-27T14:09:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_died.png</Source>
+      <Name>Overlays\you_died</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Overlays\you_died.xnb</Output>
+      <Time>2013-11-27T13:28:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_lose.png</Source>
+      <Name>Overlays\you_lose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Overlays\you_lose.xnb</Output>
+      <Time>2013-11-27T13:28:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_win.png</Source>
+      <Name>Overlays\you_win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Overlays\you_win.xnb</Output>
+      <Time>2013-11-27T13:32:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\die2.png</Source>
+      <Name>Sprites\Player\die2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\die2.xnb</Output>
+      <Time>2013-11-27T16:43:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Idle2.png</Source>
+      <Name>Sprites\Player\Idle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Idle2.xnb</Output>
+      <Time>2013-11-27T16:31:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Jump2.png</Source>
+      <Name>Sprites\Player\Jump2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Jump2.xnb</Output>
+      <Time>2013-11-27T16:31:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Run2.png</Source>
+      <Name>Sprites\Player\Run2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player\Run2.xnb</Output>
+      <Time>2013-11-27T16:31:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\deathbed.jpg</Source>
+      <Name>Backgrounds\deathbed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\deathbed.xnb</Output>
+      <Time>2013-11-26T21:45:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\dimension3_0.png</Source>
+      <Name>Backgrounds\dimension3_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\dimension3_0.xnb</Output>
+      <Time>2013-11-27T20:19:27.0872934-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\dimension3_1.png</Source>
+      <Name>Backgrounds\dimension3_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\dimension3_1.xnb</Output>
+      <Time>2013-11-27T20:19:27.0872934-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\dimension3_2.png</Source>
+      <Name>Backgrounds\dimension3_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\dimension3_2.xnb</Output>
+      <Time>2013-11-27T20:19:27.0872934-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\toxic0_0.jpg</Source>
+      <Name>Backgrounds\toxic0_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\toxic0_0.xnb</Output>
+      <Time>2013-11-05T15:56:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\toxic0_1.jpg</Source>
+      <Name>Backgrounds\toxic0_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\toxic0_1.xnb</Output>
+      <Time>2013-11-05T15:56:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\toxic0_2.jpg</Source>
+      <Name>Backgrounds\toxic0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\toxic0_2.xnb</Output>
+      <Time>2013-11-05T15:56:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\hell0_0.png</Source>
+      <Name>Backgrounds\hell0_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\hell0_0.xnb</Output>
+      <Time>2013-11-27T20:20:32.9986116-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\hell0_1.png</Source>
+      <Name>Backgrounds\hell0_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\hell0_1.xnb</Output>
+      <Time>2013-11-27T20:20:32.9986116-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\hell0_2.png</Source>
+      <Name>Backgrounds\hell0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\hell0_2.xnb</Output>
+      <Time>2013-11-27T20:20:32.9986116-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Hud.spritefont</Source>
+      <Name>Fonts\Hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Fonts\Hud.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MonsterKilled.wma</Source>
+      <Name>Sounds\MonsterKilled</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb</Output>
+      <Time>2013-11-05T13:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music.wma</Source>
+      <Name>Sounds\Music</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\Music.xnb</Output>
+      <Extra>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\Music.wma</Extra>
+      <Time>2013-11-05T13:48:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerFall.wma</Source>
+      <Name>Sounds\PlayerFall</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\PlayerFall.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerJump.wma</Source>
+      <Name>Sounds\PlayerJump</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\PlayerJump.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerKilled.wma</Source>
+      <Name>Sounds\PlayerKilled</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Powerup.wma</Source>
+      <Name>Sounds\Powerup</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\Powerup.xnb</Output>
+      <Time>2013-11-05T13:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Risen_Wolf_-_Death.mp3</Source>
+      <Name>Sounds\Risen_Wolf_-_Death</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\Risen_Wolf_-_Death.xnb</Output>
+      <Extra>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\Risen_Wolf_-_Death.wma</Extra>
+      <Time>2013-11-26T21:45:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\JMB_-_Stream_of_Time.mp3</Source>
+      <Name>Sounds\JMB_-_Stream_of_Time</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\JMB_-_Stream_of_Time.xnb</Output>
+      <Extra>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\JMB_-_Stream_of_Time.wma</Extra>
+      <Time>2013-11-26T21:59:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Tunguska_Electronic_Music_Society_-_Animula_Vagula_-_Departure.mp3</Source>
+      <Name>Sounds\Tunguska_Electronic_Music_Society_-_Animula_Vagula_-_Departure</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\Tunguska_Electronic_Music_Society_-_Animula_Vagula_-_Departure.xnb</Output>
+      <Extra>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\Tunguska_Electronic_Music_Society_-_Animula_Vagula_-_Departure.wma</Extra>
+      <Time>2013-11-26T21:59:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\all-that-remains.mp3</Source>
+      <Name>Sounds\all-that-remains</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\all-that-remains.xnb</Output>
+      <Extra>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\all-that-remains.wma</Extra>
+      <Time>2013-11-26T22:05:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\dark-piano-and-violin.mp3</Source>
+      <Name>Sounds\dark-piano-and-violin</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\dark-piano-and-violin.xnb</Output>
+      <Extra>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\dark-piano-and-violin.wma</Extra>
+      <Time>2013-11-26T22:05:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\dark-skies-of-doom.mp3</Source>
+      <Name>Sounds\dark-skies-of-doom</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\dark-skies-of-doom.xnb</Output>
+      <Extra>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\dark-skies-of-doom.wma</Extra>
+      <Time>2013-11-26T22:05:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\enemy-in-disguise.mp3</Source>
+      <Name>Sounds\enemy-in-disguise</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\enemy-in-disguise.xnb</Output>
+      <Extra>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\enemy-in-disguise.wma</Extra>
+      <Time>2013-11-26T22:05:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\dimensionshift1.mp3</Source>
+      <Name>Sounds\dimensionshift1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\dimensionshift1.xnb</Output>
+      <Time>2013-11-27T01:35:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\dimensionshift2.mp3</Source>
+      <Name>Sounds\dimensionshift2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\dimensionshift2.xnb</Output>
+      <Time>2013-11-27T01:35:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ExitReached.mp3</Source>
+      <Name>Sounds\ExitReached</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\ExitReached.xnb</Output>
+      <Time>2013-11-27T01:38:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GemCollected.mp3</Source>
+      <Name>Sounds\GemCollected</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\Sounds\GemCollected.xnb</Output>
+      <Time>2013-11-27T01:45:14-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2FDB7EF3-D3C4-47A3-8E75-C901A05B8574}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Platformer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-19T17:45:22.8683689-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

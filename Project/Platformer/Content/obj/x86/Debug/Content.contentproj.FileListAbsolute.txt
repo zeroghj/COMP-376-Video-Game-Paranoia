@@ -1,0 +1,18 @@
+C:\Users\den_lau\Desktop\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+G:\My Documents\Visual Studio 2010\Projects\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\zeroghj\Desktop\Platformer (Denis)\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\den_lau\Desktop\Platformer (Denis)\Platformer (Denis)\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\zeroghj\Desktop\savespot\Project\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\e_dana\Desktop\Paranoia (Combined)\Project\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\zeroghj\Desktop\Paranoia (Combined)\Project\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\e_dana\Desktop\Paranoia (Menu)\Paranoia (Combined)\Project\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\den_lau\Desktop\Paranoia (11_05_13-E)\Project\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\den_lau\Desktop\Paranoia (11_05_13-E)\Paranoia (11_05_13-E)\Project\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+E:\Paranoia (11_05_13-E)\Project\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\zeroghj\Desktop\Paranoia (11_05_13-E)\Project\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zeroghj\Desktop\Paranoia (11_26_13-E)\Project\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zeroghj\Desktop\Paranoia (11_27_13-E)\Project\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\den_lau\Desktop\Paranoia (11_27_13-F)\Project\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\zeroghj\Desktop\Paranoia (11_27_13-F)\Project\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zeroghj\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\den_lau\Desktop\Paranoia (11_27_13-M)\Project\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache

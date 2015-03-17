@@ -1,0 +1,3 @@
+"Always remember to check both dimensions as often as possible"
+"There's a chance you missed the switch in the other dimension, backtrack back up from here"
+"Return to the platform above and activate the switch to proceed"
